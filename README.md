@@ -45,13 +45,6 @@ I bridge development and operations, transforming infrastructure while building 
 - Automating complexity away so teams can focus on what matters
 - Fostering collaboration between development and operations
 
-## Let's Connect
-
-- Website: [glenjarvis.com](https://glenjarvis.com)
-- LinkedIn: [linkedin.com/in/glenjarvis](https://linkedin.com/in/glenjarvis)
-- Email: glen@glenjarvis.com
-- Location: San Francisco Bay Area
-
 ---
 
 _"I build systems that scale—and the teams that sustain them."_
