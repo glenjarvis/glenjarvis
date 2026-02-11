@@ -32,6 +32,7 @@ building collaborative cultures. Over 10+ years, I've:
 ## Currently
 
 - Building infrastructure for AI-powered development tools
+- Porting CI/CD from CircleCI to GitHub Actions 
 - Studying for [Kubernetes Application Developer (CKAD)
   certification](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
   from The Linux Foundation
