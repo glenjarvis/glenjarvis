@@ -1,6 +1,6 @@
 # Hi, I'm Glen Jarvis 👋
 
-**Senior DevOps Engineer** building infrastructure and the teams that sustain it.
+**Senior DevOps / Site Reliability Engineer** building infrastructure and the teams that sustain it.
 
 ## What I Do
 
@@ -39,13 +39,13 @@ building collaborative cultures. Over 10+ years, I've:
 
 ## Tech Stack
 
-### Languages & Frameworks
-
-- TypeScript, Python
-
 ### Infrastructure & Cloud
 
-- AWS, Kubernetes, Terraform, Ansible
+- AWS, Terraform, Kubernetes, Ansible
+
+### Languages & Frameworks
+
+- Python, TypeScript
 
 ## What Drives My Work
 
